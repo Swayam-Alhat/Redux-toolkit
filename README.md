@@ -55,6 +55,4 @@ npm install react-redux
 
 for React redux.
 
-## Starting to create store.
-
-First of all, we have to create store in ./src/app/`Store.js`
+## Now just follow the documentation of Redux Toolkit.
